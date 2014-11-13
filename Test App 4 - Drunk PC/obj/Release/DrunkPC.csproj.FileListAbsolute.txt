@@ -1,0 +1,5 @@
+C:\Users\John\Documents\GitHub\Codegasm\Test App 4 - Drunk PC\bin\Release\DrunkPC.exe.config
+C:\Users\John\Documents\GitHub\Codegasm\Test App 4 - Drunk PC\bin\Release\DrunkPC.exe
+C:\Users\John\Documents\GitHub\Codegasm\Test App 4 - Drunk PC\bin\Release\DrunkPC.pdb
+C:\Users\John\Documents\GitHub\Codegasm\Test App 4 - Drunk PC\obj\Release\DrunkPC.exe
+C:\Users\John\Documents\GitHub\Codegasm\Test App 4 - Drunk PC\obj\Release\DrunkPC.pdb
